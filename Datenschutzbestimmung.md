@@ -73,19 +73,19 @@ Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Instagr
 ## Externe Zahlungsdienstleister
 Diese Website setzt externe Zahlungsdienstleister ein, über deren Plattformen die Nutzer und wir Zahlungstransaktionen vornehmen können. Zum Beispiel über
 
-PostFinance (https://www.postfinance.ch/de/detail/rechtliches-barrierefreiheit.html)
-Visa (https://www.visa.de/nutzungsbedingungen/visa-privacy-center.html)
-Mastercard (https://www.mastercard.ch/de-ch/datenschutz.html)
-American Express (https://www.americanexpress.com/de/legal/online-datenschutzerklarung.html)
-Paypal (https://www.paypal.com/de/webapps/mpp/ua/privacy-full)
-Bexio AG (https://www.bexio.com/de-CH/datenschutz)
-Payrexx AG (https://www.payrexx.ch/site/assets/files/2592/datenschutzerklaerung.pdf)
-Apple Pay (https://support.apple.com/de-ch/ht203027)
-Stripe (https://stripe.com/ch/privacy)
-Klarna (https://www.klarna.com/de/datenschutz/)
-Skrill (https://www.skrill.com/de/fusszeile/datenschutzrichtlinie/)
-Giropay (https://www.giropay.de/rechtliches/datenschutzerklaerung) etc.
-Im Rahmen der Erfüllung von Verträgen setzen wir die Zahlungsdienstleister auf Grundlage der schweizerischen Datenschutzverordnung sowie und soweit nötig, des Art. 6 Abs. 1 lit. b. EU-DSGVO ein. Im Übrigen setzen wir externe Zahlungsdienstleister auf Grundlage unserer berechtigten Interessen gem. schweizerischer Datenschutzverordnung sowie und soweit nötig, gem. Art. 6 Abs. 1 lit. f. EU-DSGVO ein, um unseren Nutzern effektive und sichere Zahlungsmöglichkeit zu bieten.
+- PostFinance (https://www.postfinance.ch/de/detail/rechtliches-barrierefreiheit.html)
+- Visa (https://www.visa.de/nutzungsbedingungen/visa-privacy-center.html)
+- Mastercard (https://www.mastercard.ch/de-ch/datenschutz.html)
+- American Express (https://www.americanexpress.com/de/legal/online-datenschutzerklarung.html)
+- Paypal (https://www.paypal.com/de/webapps/mpp/ua/privacy-full)
+- Bexio AG (https://www.bexio.com/de-CH/datenschutz)
+- Payrexx AG (https://www.payrexx.ch/site/assets/files/2592/datenschutzerklaerung.pdf)
+- Apple Pay (https://support.apple.com/de-ch/ht203027)
+- Stripe (https://stripe.com/ch/privacy)
+- Klarna (https://www.klarna.com/de/datenschutz/)
+- Skrill (https://www.skrill.com/de/fusszeile/datenschutzrichtlinie/)
+- Giropay (https://www.giropay.de/rechtliches/datenschutzerklaerung) etc.
+- Im Rahmen der Erfüllung von Verträgen setzen wir die Zahlungsdienstleister auf Grundlage der schweizerischen Datenschutzverordnung sowie und soweit nötig, des Art. 6 Abs. 1 lit. b. EU-DSGVO ein. Im Übrigen setzen wir externe Zahlungsdienstleister auf Grundlage unserer berechtigten Interessen gem. schweizerischer Datenschutzverordnung sowie und - - soweit nötig, gem. Art. 6 Abs. 1 lit. f. EU-DSGVO ein, um unseren Nutzern effektive und sichere Zahlungsmöglichkeit zu bieten.
 
 Zu den durch die Zahlungsdienstleister verarbeiteten Daten gehören Bestandsdaten, wie z.B. der Name und die Adresse, Bankdaten, wie u.a. Kontonummern oder Kreditkartennummern, Passwörter, TANs und Prüfsummen sowie die Vertrags-, Summen und empfängerbezogenen Angaben. Die Angaben sind erforderlich, um die Transaktionen durchzuführen. Die eingegebenen Daten werden jedoch nur durch die Zahlungsdienstleister verarbeitet und bei diesen gespeichert. Wir als Betreiber erhalten keinerlei Informationen zu (Bank-) Konto oder Kreditkarte, sondern lediglich Informationen zur Bestätigung (Annahme) oder Ablehnung der Zahlung. Unter Umständen werden die Daten seitens der Zahlungsdienstleister an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung bezweckt die Identitäts- und Bonitätsprüfung. Hierzu verweisen wir auf die AGB und Datenschutzhinweise der Zahlungsdienstleister.
 
