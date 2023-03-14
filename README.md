@@ -2,4 +2,4 @@
 
 Die Dokumentation unsererer IDPA
  
- Name : Duftsymphony
+ Name : Duftsymphonie
