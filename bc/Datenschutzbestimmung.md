@@ -2,13 +2,9 @@
 Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
 
-Gian Federspiel
-Panoramaweg, 5
-6207 Nottwil
+Luis Gjokaj
 
-Telefon: +41797170976
-E-Mail: gian.federspiel@bluewin.ch
-WebSite: http://gian.ch/
+E-Mail: luis.gjokaj@gmail.com
 
  
 
@@ -109,4 +105,3 @@ Wir können diese Datenschutzerklärung jederzeit ohne Vorankündigung anpassen.
 ## Fragen an den Datenschutzbeauftragten
 Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz zu Beginn der Datenschutzerklärung aufgeführten, verantwortlichen Person in unserer Organisation.
 
-Quelle: SwissAnwalt
