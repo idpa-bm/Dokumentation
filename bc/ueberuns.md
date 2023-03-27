@@ -2,4 +2,4 @@
 
 Wir betrieben diesen Shop im Rahmen eines Schulprojekts.
 
-Für weitere informationen melden sie sich bei gian.federspiel@bluewin.ch
+Für weitere informationen melden sie sich bei luis.gjokaj@gmail.com
