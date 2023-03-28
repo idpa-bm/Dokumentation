@@ -10,6 +10,7 @@ Alle neuen Funktionen oder Tools, die zum aktuellen Shop hinzugefügt werden, un
 Unser Shop wird auf Shopify Inc. gehostet. Shopify stellt uns die Online-E-Commerce-Plattform zur Verfügung, die es uns ermöglicht, unsere Produkte und Dienstleistungen an Sie zu verkaufen.
 
 ## ABSCHNITT 1 - BEDINGUNGEN FÜR DEN ONLINESHOP
+Der Onlineshoop liefert und operiert nur in der Schweiz.
 Mit der Zustimmung zu diesen Allgemeinen Geschäftsbedingungen erklären Sie, dass Sie in dem Land Ihres Wohnsitzes mindestens volljährig sind oder dass Sie in dem Land Ihres Wohnsitz volljährig sind und uns Ihre Zustimmung gegeben haben, dass Ihre minderjährigen Angehörigen diese Website nutzen dürfen.
 
 Sie dürfen unsere Produkte weder für illegale oder nicht autorisierte Zwecke nutzen noch dürfen Sie durch die Nutzung der Serviceleistung gegen Gesetze in Ihrer Gerichtsbarkeit verstoßen (einschließlich, aber nicht beschränkt auf Urheberrechtsgesetze).
